@@ -1,3 +1,4 @@
+
 body {
     color: white;
     background: black;
@@ -9,11 +10,11 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(206, 0, 237);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(223, 137, 239);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
